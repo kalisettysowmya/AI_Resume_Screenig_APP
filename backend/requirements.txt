@@ -1,0 +1,10 @@
+flask
+pymongo
+transformers
+torch
+scikit-learn
+spacy
+pdfplumber
+python-docx
+gunicorn
+
